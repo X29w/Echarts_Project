@@ -1,0 +1,41 @@
+[{
+    "name": "抖音",
+    "stock": 2310,
+    "sales": 2103
+}, {
+    "name": "bilibili",
+    "stock": 34312,
+    "sales": 23509
+}, {
+    "name": "小红书",
+    "stock": 22140,
+    "sales": 12830
+}, {
+    "name": "QQ",
+    "stock": 10842,
+    "sales": 5492
+}, {
+    "name": "微信",
+    "stock": 68102,
+    "sales": 44043
+}, {
+    "name": "淘宝",
+    "stock": 12032,
+    "sales": 8603
+}, {
+    "name": "京东",
+    "stock": 9890,
+    "sales": 8960
+}, {
+    "name": "微博",
+    "stock": 20130,
+    "sales": 12302
+}, {
+    "name": "百度",
+    "stock": 89342,
+    "sales": 42948
+}, {
+    "name": "知乎",
+    "stock": 5034,
+    "sales": 1220
+}]
